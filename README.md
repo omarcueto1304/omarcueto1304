@@ -2,7 +2,7 @@
 
 I`m an industrial engineer and data science, MERN full stack and machine learnning in progress. I hope you enjoy this page.
 
-<h5> Visita mi <a href="shorturl.at/jruAR" rel="nofollow"> LinkedIn</a> </h5>
+<h5> Visita mi <a href="https://www.linkedin.com/in/saneamientoambientalperu/" rel="nofollow"> LinkedIn</a> </h5>
 
 <!--
 **omarcueto1304/omarcueto1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
