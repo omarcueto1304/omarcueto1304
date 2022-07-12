@@ -2,6 +2,8 @@
 
 I`m an industrial engineer and data science, MERN full stack and machine learnning in progress. I hope you enjoy this page.
 
+<h5> Trabajos en tableau <a https://public.tableau.com/views/Dashboard1_16575941451830/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link" rel="nofollow"> Dashboard1</a> </h5>
+
 <h5> Visita mi <a href="https://www.linkedin.com/in/saneamientoambientalperu/" rel="nofollow"> LinkedIn</a> </h5>
 
 <!--
